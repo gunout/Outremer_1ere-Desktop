@@ -20,7 +20,7 @@ class OutreMerRadioApp(Gtk.Window):
             "Guadeloupe La 1ère": "https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3",
             "Martinique La 1ère": "https://martinique.ice.infomaniak.ch/martinique-128.mp3",
             "Guyane La 1ère": "https://guyane.ice.infomaniak.ch/guyane-128.mp3",
-            "La Réunion La 1ère": "https://reunion.ice.infomaniak.ch/reunion-128.mp3",
+            "Réunion La 1ère": "https://reunion.ice.infomaniak.ch/reunion-128.mp3",
             "Mayotte La 1ère": "https://mayotte.ice.infomaniak.ch/mayotte-128.mp3",
             "Nouvelle-Calédonie La 1ère": "https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3",
             "Polynésie La 1ère": "https://polynesie.ice.infomaniak.ch/polynesie-128.mp3",
