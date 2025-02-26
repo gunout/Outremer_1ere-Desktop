@@ -18,6 +18,9 @@ Outremer_1ere Desktop Application ( python ) ( Toutes les Radios 1ere Outremer )
 
     sudo apt install vlc
 
+# GTK3
+
+    sudo apt install libgtk-3-0
 
 # RUN 
 
