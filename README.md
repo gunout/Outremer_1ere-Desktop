@@ -23,3 +23,9 @@ Outremer_1ere Desktop Application ( python ) ( Toutes les Radios 1ere Outremer )
 
     chmod +x la1ere.py
     python la1ere.py
+    
+![La 1ere example](https://github.com/user-attachments/assets/3c05e4ca-b419-457d-ba36-0501aca7b809)
+![la 1ere example2](https://github.com/user-attachments/assets/1fa71634-3b14-45d6-ba45-66720c5472f4)
+
+
+
